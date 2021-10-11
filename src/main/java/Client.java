@@ -1,5 +1,5 @@
 public class Client
 {
-  public void Client()
+  public Client()
   {}
 }
