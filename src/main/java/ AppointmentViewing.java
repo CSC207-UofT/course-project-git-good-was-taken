@@ -1,6 +1,6 @@
 public class  AppointmentViewing
 {
-  public void AppointmentViewing()
+  public AppointmentViewing()
   {
   
   }
