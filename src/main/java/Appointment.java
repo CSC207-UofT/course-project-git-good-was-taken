@@ -1,5 +1,5 @@
 public Appointment
 {
-  public void Appointment()
+  public Appointment()
   {}
 }
