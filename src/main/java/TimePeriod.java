@@ -1,6 +1,6 @@
 public class TimePeriod
 {
-  public void TimePeriod()
+  public TimePeriod()
   {
   
   }
