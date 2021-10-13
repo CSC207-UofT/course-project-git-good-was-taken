@@ -1,4 +1,4 @@
-public class ClientBooking implements VaccineBookingSystem{
+public class ClientBooking {
 
     public ClientBooking(){
 

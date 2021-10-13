@@ -1,7 +1,8 @@
-public AppointmentCancellation
-{
-  public void AppointmentCancellation
-  {
-  
+public class AppointmentCancellation {
+
+  public AppointmentCancellation(){
+
+
   }
+
 }
